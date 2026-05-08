@@ -19,3 +19,4 @@
 4. Added a mechanic where experience orbs disappear after a period of time.
 5. Added descriptive text for all buffs.
 6. Fixed the issue of enemy sprites being obscured due to sorting layer problems.
+1
